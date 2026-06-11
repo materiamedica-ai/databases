@@ -1,2 +1,3 @@
 # databases
-Materia Medica AI — versioned app database releases (password-protected AES-256 zips; passwords delivered via app config)
+
+Versioned app data releases for Materia Medica AI.
